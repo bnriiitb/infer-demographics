@@ -5,7 +5,7 @@ Infer Demographics from an Indian name
 
 ## Installing
 ---
-Install infer_demographics from PyPI via pip install infer_demographics
+Install infer_demographics from PyPI via ```pip install infer_demographics```
 
 
 ## Documentation 
